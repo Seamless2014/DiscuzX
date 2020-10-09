@@ -3,3 +3,10 @@
 ################################################################################
 
 /DiscuzX.Net/.vs/Server
+/.vs/DiscuzX.Net/v16
+/DiscuzX.Net/bin/Debug/netcoreapp3.1
+/DiscuzX.Net/obj
+/DiscuzX.Net/DiscuzX.Net.csproj.user
+/obj/Docker
+/upload/bin/Debug/netstandard2.1
+/upload/obj
